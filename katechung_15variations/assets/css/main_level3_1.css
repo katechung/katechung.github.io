@@ -1,0 +1,44 @@
+/* Start here */
+
+body {
+    width: 2000px;
+    height: 3000px;
+}
+
+
+
+.border{
+    width: 1000px;
+        height:200px;
+    border: 9px solid black;
+}
+
+.dashthree{
+    border: 10px black dashed;
+    width: 1000px;
+    height: 200px;
+    top: -160px;
+    left: 70px;
+   position:relative;
+    
+}
+
+.dash4{
+    border: 15px black solid;
+    width: 1000px;
+    height: 200px;
+    top: -300px;
+    left: 130px;
+   position:relative;
+    
+}
+
+.dash5{
+    border: 20px black dashed;
+    width: 1300px;
+    height: 200px;
+    top: -360px;
+    left: 220px;
+   position:relative;
+    
+}

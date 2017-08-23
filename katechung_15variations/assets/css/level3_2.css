@@ -1,0 +1,126 @@
+/* Start here */
+
+body {
+    width: 2000px;
+    height: 3000px;
+}
+
+
+.new {
+    width: 1000px;
+    height: 1000px;
+    border: 10px black dashed;
+    position: fixed;
+}
+.outer {
+    width: 800px;
+    height: 100px;
+    background-color: aquamarine;
+    margin-left: 100px;
+    padding-left: 20px;
+    margin-top: 500px;
+    padding-top: 10px;
+}
+
+.fixed{
+    border: 2px black dashed;
+    width: 1000px;
+    height: 300px;
+    left: 100px;
+    position: fixed;
+}
+
+.fixedd{
+    border: 5px black dashed;
+    width: 100px;
+    height: 400px;
+    left: 500px;
+    position:relative;
+}
+
+.fixeddd{
+    border: 10px black solid;
+    width: 120px;
+    height: 300px;
+    left: 30px;
+    position:relative;
+    
+}
+
+.fixedddd{
+    border: 20px black dashed;
+    width: 100px;
+    height: 300px;
+    left: 200px;
+   position:relative;
+}
+
+.fixeddddd{
+    border: 10px black dashed;
+    width: 100px;
+    height: 300px;
+    left: 500px;
+   position:relative;
+}
+
+    
+
+
+.dash{
+    width: 500px;
+    height: 100px;
+    position: absolute;
+    border: 10px black dashed;
+    
+    
+}
+
+.dashh{
+    width: 800px;
+    height: 100px;
+    left: 40px;
+    top: -100;
+    position: relative;
+    border: 25px black dashed;
+    
+    
+}
+
+.dashone{
+    border: 15px black dashed;
+    width: 90px;
+    height: 400px;
+    left: 500px;
+   position:relative;
+    
+}
+
+.dashtwo{
+    border: 25px black dashed;
+    width: 700px;
+    height: 200px;
+    left: 400px;
+    top: -400;
+   position:relative;
+    
+    
+}
+
+.dashthree{
+    border: 45px black dashed;
+    width: 450px;
+    height: 300px;
+    top: -100px;
+    left: 400px;
+   position:relative;
+    
+}
+
+
+.fixedred{
+    border: 20px black solid;
+    width: 100px;
+    height: 300px;
+    left: 200px;
+   position:relative;
+}

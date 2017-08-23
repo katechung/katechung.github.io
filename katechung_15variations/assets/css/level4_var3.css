@@ -1,0 +1,138 @@
+/* Start here */
+
+.first{
+     font-family: futura;
+    font-weight: bolder;
+    font-size: 8px;
+   position:absolute;
+    letter-spacing: 50px;
+    left: 200px;
+    line-height: 15px;
+}
+
+.second{
+    font-family: arial;
+    font-weight: lighter;
+    top: 30px;
+    letter-spacing: 100px;
+    font-size: 10px;
+    position:absolute;
+    line-height: 60px;
+    
+    
+    
+}
+
+.third{
+    font-family: arial;
+    font-weight: bold;
+    top: 100px;
+    left: 500px;
+    letter-spacing: 100px;
+    font-size: 11px;
+    position:absolute;
+    line-height: 60px;
+}
+
+
+.lastone{
+    border: 8px solid black;
+    font-style: italic;
+    width: 300px;
+    height: 50px;
+    font-family: avenir;
+    position: normal; 
+    font-weight: bold;
+    letter-spacing: -1px;
+    top: 190px;
+    left: 320px;
+    font-size: 70px;
+    position:absolute;
+    line-height: 60px;
+    letter-spacing: 20px;
+}
+
+.last{
+    font-family: avenir;
+    position: normal; 
+    letter-spacing: -1px;
+    top: 140px;
+    font-size: 10px;
+    position:absolute;
+    line-height: 60px;
+    letter-spacing: 20px;
+}
+
+.lasttwo{
+    font-family: futura;
+    font-weight: bolder;
+    font-size: 10px;
+   position:absolute;
+ top: 300px;
+    letter-spacing: 20px;
+    left: 800px;
+    line-height: 15px;
+}
+
+.lastthree{
+    font-family: helvetica;
+    font-weight: normal;
+    font-size: 10px;
+    letter-spacing: 20px;
+position:absolute;
+ top: 420px;
+    left: 100px;
+
+}
+
+.lastfour{
+    font-family: arial;
+    font-weight: bold;
+    letter-spacing: 40px;
+    font-size: 10px;
+position:absolute;
+ top: 500px;
+    left: 300px;
+    line-height: 50px;
+}
+
+.border{
+    
+    border: 10px solid black;
+    font-style: italic;
+    font-family: arial;
+    font-weight: bold;
+    letter-spacing: 30px;
+    font-size: 30px;
+position:absolute;
+ top: 480px;
+    left: 420px;
+    line-height: 50px;
+    
+}
+
+.lastfive{
+    font-family: futura;
+    font-weight: bolder;
+    letter-spacing: 30px;
+    font-size: 10px;
+position:absolute;
+ top: 760px;
+    left: 100px;
+    line-height: 50px;
+}
+
+.fivelast{
+    border: 2px black dashed;
+    width: 200px;
+    height: 50px;
+    font-style: italic;
+    font-family: futura;
+    font-weight: bolder;
+    top: 800px;
+    left: 400px;
+    letter-spacing: 10px;
+    font-size: 30px;
+    position:absolute;
+    line-height: 60px;
+}

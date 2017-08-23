@@ -1,0 +1,47 @@
+/* Start here */
+
+body {
+    width: 2000px;
+    height: 3000px;
+}
+
+
+#pug {
+    border: 2px red dashed;
+    
+    position: fixed;
+    left: 400px;
+}
+
+
+.outer {
+    width: 800px;
+    height: 100px;
+    background-color: aquamarine;
+    
+    margin-left: 100px;
+    padding-left: 20px;
+    margin-top: 500px;
+    padding-top: 10px;
+}
+
+.inner {
+    width: 300px;
+    height: 50px;
+    background-color: yellow;
+    
+    padding: 10px 10px 20px 30px;
+    
+    font-family: 'Comic Sans', 'Helvetica', sans-serif;
+    letter-spacing: 20px;
+    
+    float: right;
+    
+    -webkit-transform: rotateZ(30deg); /* Safari */
+    transform: rotateZ(30deg);
+}
+
+#pug {
+    width: auto;
+}
+

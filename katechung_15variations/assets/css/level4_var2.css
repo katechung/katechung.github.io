@@ -1,0 +1,144 @@
+/* Start here */
+
+.first{
+    font-family: futura;
+    font-weight: bold;
+   letter-spacing: 100px;
+    font-size: 150px;
+   position: fixed; 
+    
+}
+
+.second{
+    
+   font-family: arial;
+    font-weight: bolder;
+   letter-spacing: 70px;
+    font-size: 40px;
+    top: 120px;
+    left: 400px;
+   position: fixed; 
+    
+}
+
+.third{
+    font-family: helvetica;
+    font-weight: normal;
+   letter-spacing: 70px;
+    font-size: 100px;
+     left: 100px;
+    top: 270px;
+   position: fixed; 
+    
+}
+
+.fourth{
+     font-family: futura;
+    font-weight: normal;
+   letter-spacing: 50px;
+    font-size: 150px;
+    top: 120px;
+   position: fixed; 
+}
+
+.fifth{
+     font-family: avenir;
+    font-weight: normal;
+   letter-spacing: 90px;
+    font-size: 30px;
+    top: 380px;
+    left: 30px;
+   position: fixed; 
+}
+.six{
+     font-family: gillsans;
+    font-weight: normal;
+   letter-spacing: -10px;
+    font-size: 100px;
+    top: 390px;
+    left: 50px;
+   position: fixed; 
+}
+.seven{
+     font-family: futura;
+    font-weight: normal;
+   letter-spacing: 10px;
+    font-size: 150px;
+    top: 390px;
+    left: 410px;
+   position: fixed; 
+}
+
+.eight{
+     font-family: futura;
+    font-weight: normal;
+   letter-spacing: 10px;
+    font-size: 200px;
+    top: 480px;
+    left: 530px;
+   position: fixed; 
+}
+
+.nine{
+     font-family: avenir;
+    font-weight: lighter;
+   letter-spacing: 30px;
+    font-size: 100px;
+    top: 390px;
+    left: 665px;
+   position: fixed; 
+}
+.ten{
+     font-family: avenir;
+    font-weight: lighter;
+   letter-spacing: 30px;
+    font-size: 200px;
+    top: 450px;
+    left: 90px;
+   position: fixed; 
+}
+.tenclick{
+     font-family: avenir;
+    font-weight: lighter;
+   letter-spacing: 30px;
+    font-size: 200px;
+    top: 450px;
+    left: 90px;
+   position: fixed; 
+}
+.eleven{
+     font-family: avenir;
+    font-weight: lighter;
+   letter-spacing: 120px;
+    font-size: 100px;
+    left: 200px;
+   position: fixed;
+}
+.deep{
+     font-family: avenir;
+    font-weight: normal;
+   letter-spacing: -15px;
+    font-size: 100px;
+    left: 860px;
+    top: 150px;
+   position: fixed;
+}
+
+.last{
+    font-family: futura;
+  position: fixed; 
+    letter-spacing: -1px;
+top: 670px;
+    left: 50px;
+    
+}
+
+.lasttwo{
+    font-family: futura;
+    font-weight: bolder;
+    font-size: 20px;
+  position: fixed;  
+ top: 260px;
+    left: 800px;
+    line-height: 10px;
+}
